@@ -1,1 +1,1 @@
-# BBHackathon2015
+Mobile game which uses the rules of Conway's Game of Life to create a two-player environment wherein players attempt to inflitrate each others' bases as the generations of the game pass in rounds. The application is written in Cordova with a processing.js extension. Currently only runs on Android due to testing purposes.
